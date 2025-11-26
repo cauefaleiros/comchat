@@ -1,0 +1,7 @@
+---
+1.0.0 multi_json:>= 0|checksum:08a975c4e6455685fdd7e5559e23023a804537d9b06887151ecec3c9a74eb042,ruby:>= 2.4
+2.0.0 multi_json:>= 0|checksum:68ab4a096bc156e6a77ebf6c46805ccca7ea012e74ae2f208d28751950c628c7,ruby:>= 2.4
+2.0.1 multi_json:>= 0|checksum:a62b9fe8d652c1eedc1bd558a67e2dc1efbb914906f1c7f83e3764bb7e3009cf,ruby:>= 2.4
+2.0.2 multi_json:>= 0|checksum:b4a3b5b7b3854630ee279adbf4221d24746e5d1b7ea0f4c8f2a7d043b4556a49,ruby:>= 2.4
+2.1.0 multi_json:>= 0|checksum:202a350af68ac5fafd6076998dbfd1ecb14b52bd2999fef12d2ec17b203570c6,ruby:>= 2.4
+2.2.0 multi_json:>= 0|checksum:12d7d3e0a71fc975686852276e7c6dd208a0752951babfdce6c228a4a6424d5f,ruby:>= 2.4

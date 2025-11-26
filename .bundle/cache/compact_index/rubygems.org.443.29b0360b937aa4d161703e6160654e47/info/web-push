@@ -1,0 +1,7 @@
+---
+1.0.0 hkdf:~> 0.2,jwt:~> 2.0|checksum:97df064572a9f5ba5e784779959a449b748d162f1da0f1e418bbf9efe788e08a,ruby:>= 2.2
+2.0.0 hkdf:~> 1.0,jwt:~> 2.0,openssl:~> 2.2|checksum:020033d15e590e10f814dcb073c7b3e6657cdf39e2725d2fb83a7835a49f3fa0,ruby:>= 3.0
+2.1.0 hkdf:~> 1.0,jwt:~> 2.0,openssl:~> 3.0|checksum:6d9cf485c8f2bec7199ae7a27ccffee3ccbc6f647b2d15fc7f068627060ac6a3,ruby:>= 3.0
+3.0.0 hkdf:~> 1.0,jwt:~> 2.0,openssl:~> 3.0|checksum:9114e6124c361fc98d619dc377cb315d2233bb1be0760929bb99909d5e8d5dcb,ruby:>= 3.0
+3.0.1 jwt:~> 2.0,openssl:~> 3.0|checksum:5b4dd2f2bba3bd8951da6416492fe920a6f203d14d3080f943c5d01c0cc4b18d,ruby:>= 3.0
+3.0.2 jwt:~> 3.0,openssl:~> 3.0|checksum:0c51f5cc5065b533111bc7096d75d5f4b4456c416ac1be3eb26dc408da340c93,ruby:>= 3.0

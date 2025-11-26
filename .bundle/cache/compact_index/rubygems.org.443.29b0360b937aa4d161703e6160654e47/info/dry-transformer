@@ -1,0 +1,5 @@
+---
+0.1.0 |checksum:1c25b82eaf3c8a882f24f77acaddded58f8204b826baea324dc7bd193503f69d,ruby:>= 2.3.0
+0.1.1 |checksum:ea13e9eeede95158edfa5bb9080e47a010747928b3f7aaab7a16b7d8cd859146,ruby:>= 2.4.0
+1.0.0 zeitwerk:~> 2.6|checksum:26922e91ea8ad17263157bfa381e31163594ba9d21ed328a42dd93f169e2c0a9,ruby:>= 2.7.0
+1.0.1 zeitwerk:~> 2.6|checksum:6a2a6184ece8e347ebb1315fe3224ac19f42ca157db0f59cd5a69aeb76f73d76,ruby:>= 2.7.0

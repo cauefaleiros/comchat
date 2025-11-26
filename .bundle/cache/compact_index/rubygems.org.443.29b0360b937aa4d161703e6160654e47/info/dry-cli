@@ -1,0 +1,10 @@
+---
+0.4.0 concurrent-ruby:~> 1.0,hanami-utils:~> 1.3|checksum:5576af848c6515a28edbdd5b80a132ed86a3ca4158808366f6504892498fd2ec
+0.5.0 concurrent-ruby:~> 1.0|checksum:8eef9cd758de8470b7e8e026ad4e3c6a527ba8ffac1de70fa9e9cfcf71b1d0cf
+0.5.1 concurrent-ruby:~> 1.0|checksum:23a741d7da3dd2a0e5f38dac3936cb3b82849b7c7b8fb25264925b0552446014,ruby:>= 2.4.0
+0.6.0 concurrent-ruby:~> 1.0|checksum:b558e075dc8b40e59eb4c6835916d0ec51b2a24355fb2c7639d4064af0555905,ruby:>= 2.3.0
+0.7.0 |checksum:7aa4d4808cdfb39de2f5fc770e34e216ac4ee5e5e77b42757701068b42bbcdb9,ruby:>= 2.4.0
+1.0.0 |checksum:28ead169f872954dd08910eb8ead59cf86cd18b4aab321e8eeefe945749569f0,ruby:>= 2.7.0
+1.1.0 |checksum:08301cc1176a7ce797d7595d6f54f5a796f04d8590a86ae9dba1176752899da1,ruby:>= 2.4.0
+1.2.0 |checksum:8c97df3b290ee6354ee2025a5f0a67226b381627de32741d06f35ea0887cd95b,ruby:>= 2.4.0
+1.3.0 |checksum:984a715f9d7f8d9bf87b6530acdd4321dcf747636bfeb3ea7fd1b81bc0226e84,ruby:>= 3.1
