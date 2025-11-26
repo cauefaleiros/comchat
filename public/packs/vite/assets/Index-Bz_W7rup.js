@@ -1,0 +1,2 @@
+import{_ as o,n as s,o as a,p as e}from"./_plugin-vue_export-helper-DG4P_01H.js";const t={name:"KanbanView"},l={class:"flex flex-col h-full"};function r(c,n,d,p,f,i){return a(),s("div",l,n[0]||(n[0]=[e("div",{class:"p-4 border-b border-n-weak"},[e("h1",{class:"text-2xl font-semibold"},"Kanban")],-1),e("div",{class:"flex-1 p-4"},[e("p",null,"Seu conteúdo do Kanban aqui")],-1)]))}const _=o(t,[["render",r]]);export{_ as default};
+//# sourceMappingURL=Index-Bz_W7rup.js.map

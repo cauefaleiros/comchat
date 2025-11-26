@@ -1,0 +1,345 @@
+# Logfile created on 2025-10-23 19:10:29 +0000 by logger.rb/v1.7.0
+D, [2025-10-23T19:10:29.638429 #1432584] DEBUG -- : Registered tool: write_project_file
+D, [2025-10-23T19:10:29.638496 #1432584] DEBUG -- : Registered tool: shell_eval
+D, [2025-10-23T19:10:29.638507 #1432584] DEBUG -- : Registered tool: read_project_file
+D, [2025-10-23T19:10:29.638516 #1432584] DEBUG -- : Registered tool: project_eval
+D, [2025-10-23T19:10:29.638525 #1432584] DEBUG -- : Registered tool: list_project_files
+D, [2025-10-23T19:10:29.638533 #1432584] DEBUG -- : Registered tool: get_source_location
+D, [2025-10-23T19:10:29.638541 #1432584] DEBUG -- : Registered tool: get_package_location
+D, [2025-10-23T19:10:29.638550 #1432584] DEBUG -- : Registered tool: get_models
+D, [2025-10-23T19:10:29.638561 #1432584] DEBUG -- : Registered tool: get_logs
+D, [2025-10-23T19:10:29.638591 #1432584] DEBUG -- : Registered tool: get_docs
+D, [2025-10-23T19:10:29.638601 #1432584] DEBUG -- : Registered tool: execute_sql_query
+D, [2025-10-23T19:10:29.638618 #1432584] DEBUG -- : Registered tool: edit_project_file
+I, [2025-10-23T19:10:29.638636 #1432584]  INFO -- : Starting MCP server as Rack middleware: tidewave v0.2.0
+I, [2025-10-23T19:10:29.638646 #1432584]  INFO -- : Available tools: write_project_file, shell_eval, read_project_file, project_eval, list_project_files, get_source_location, get_package_location, get_models, get_logs, get_docs, execute_sql_query, edit_project_file
+I, [2025-10-23T19:10:29.638653 #1432584]  INFO -- : Available resources: 
+D, [2025-10-23T19:10:29.638700 #1432584] DEBUG -- : Starting Rack transport with path prefix: /tidewave
+D, [2025-10-23T19:10:29.638722 #1432584] DEBUG -- : DNS rebinding protection enabled. Allowed origins: 
+D, [2025-10-23T19:10:35.925597 #1432894] DEBUG -- : Registered tool: write_project_file
+D, [2025-10-23T19:10:35.925723 #1432894] DEBUG -- : Registered tool: shell_eval
+D, [2025-10-23T19:10:35.925740 #1432894] DEBUG -- : Registered tool: read_project_file
+D, [2025-10-23T19:10:35.925755 #1432894] DEBUG -- : Registered tool: project_eval
+D, [2025-10-23T19:10:35.925768 #1432894] DEBUG -- : Registered tool: list_project_files
+D, [2025-10-23T19:10:35.925781 #1432894] DEBUG -- : Registered tool: get_source_location
+D, [2025-10-23T19:10:35.925794 #1432894] DEBUG -- : Registered tool: get_package_location
+D, [2025-10-23T19:10:35.925808 #1432894] DEBUG -- : Registered tool: get_models
+D, [2025-10-23T19:10:35.925822 #1432894] DEBUG -- : Registered tool: get_logs
+D, [2025-10-23T19:10:35.925836 #1432894] DEBUG -- : Registered tool: get_docs
+D, [2025-10-23T19:10:35.925848 #1432894] DEBUG -- : Registered tool: execute_sql_query
+D, [2025-10-23T19:10:35.925862 #1432894] DEBUG -- : Registered tool: edit_project_file
+I, [2025-10-23T19:10:35.925889 #1432894]  INFO -- : Starting MCP server as Rack middleware: tidewave v0.2.0
+I, [2025-10-23T19:10:35.925900 #1432894]  INFO -- : Available tools: write_project_file, shell_eval, read_project_file, project_eval, list_project_files, get_source_location, get_package_location, get_models, get_logs, get_docs, execute_sql_query, edit_project_file
+I, [2025-10-23T19:10:35.925909 #1432894]  INFO -- : Available resources: 
+D, [2025-10-23T19:10:35.925971 #1432894] DEBUG -- : Starting Rack transport with path prefix: /tidewave
+D, [2025-10-23T19:10:35.925983 #1432894] DEBUG -- : DNS rebinding protection enabled. Allowed origins: 
+D, [2025-10-23T19:14:04.734014 #1442549] DEBUG -- : Registered tool: write_project_file
+D, [2025-10-23T19:14:04.734190 #1442549] DEBUG -- : Registered tool: shell_eval
+D, [2025-10-23T19:14:04.734217 #1442549] DEBUG -- : Registered tool: read_project_file
+D, [2025-10-23T19:14:04.734235 #1442549] DEBUG -- : Registered tool: project_eval
+D, [2025-10-23T19:14:04.734253 #1442549] DEBUG -- : Registered tool: list_project_files
+D, [2025-10-23T19:14:04.734267 #1442549] DEBUG -- : Registered tool: get_source_location
+D, [2025-10-23T19:14:04.734279 #1442549] DEBUG -- : Registered tool: get_package_location
+D, [2025-10-23T19:14:04.734292 #1442549] DEBUG -- : Registered tool: get_models
+D, [2025-10-23T19:14:04.734306 #1442549] DEBUG -- : Registered tool: get_logs
+D, [2025-10-23T19:14:04.734345 #1442549] DEBUG -- : Registered tool: get_docs
+D, [2025-10-23T19:14:04.734361 #1442549] DEBUG -- : Registered tool: execute_sql_query
+D, [2025-10-23T19:14:04.734374 #1442549] DEBUG -- : Registered tool: edit_project_file
+I, [2025-10-23T19:14:04.734406 #1442549]  INFO -- : Starting MCP server as Rack middleware: tidewave v0.2.0
+I, [2025-10-23T19:14:04.734420 #1442549]  INFO -- : Available tools: write_project_file, shell_eval, read_project_file, project_eval, list_project_files, get_source_location, get_package_location, get_models, get_logs, get_docs, execute_sql_query, edit_project_file
+I, [2025-10-23T19:14:04.734430 #1442549]  INFO -- : Available resources: 
+D, [2025-10-23T19:14:04.734491 #1442549] DEBUG -- : Starting Rack transport with path prefix: /tidewave
+D, [2025-10-23T19:14:04.734502 #1442549] DEBUG -- : DNS rebinding protection enabled. Allowed origins: 
+D, [2025-10-23T19:14:32.661051 #1443820] DEBUG -- : Registered tool: write_project_file
+D, [2025-10-23T19:14:32.661146 #1443820] DEBUG -- : Registered tool: shell_eval
+D, [2025-10-23T19:14:32.661158 #1443820] DEBUG -- : Registered tool: read_project_file
+D, [2025-10-23T19:14:32.661170 #1443820] DEBUG -- : Registered tool: project_eval
+D, [2025-10-23T19:14:32.661183 #1443820] DEBUG -- : Registered tool: list_project_files
+D, [2025-10-23T19:14:32.661192 #1443820] DEBUG -- : Registered tool: get_source_location
+D, [2025-10-23T19:14:32.661202 #1443820] DEBUG -- : Registered tool: get_package_location
+D, [2025-10-23T19:14:32.661209 #1443820] DEBUG -- : Registered tool: get_models
+D, [2025-10-23T19:14:32.661218 #1443820] DEBUG -- : Registered tool: get_logs
+D, [2025-10-23T19:14:32.661226 #1443820] DEBUG -- : Registered tool: get_docs
+D, [2025-10-23T19:14:32.661234 #1443820] DEBUG -- : Registered tool: execute_sql_query
+D, [2025-10-23T19:14:32.661243 #1443820] DEBUG -- : Registered tool: edit_project_file
+I, [2025-10-23T19:14:32.661263 #1443820]  INFO -- : Starting MCP server as Rack middleware: tidewave v0.2.0
+I, [2025-10-23T19:14:32.661272 #1443820]  INFO -- : Available tools: write_project_file, shell_eval, read_project_file, project_eval, list_project_files, get_source_location, get_package_location, get_models, get_logs, get_docs, execute_sql_query, edit_project_file
+I, [2025-10-23T19:14:32.661280 #1443820]  INFO -- : Available resources: 
+D, [2025-10-23T19:14:32.661324 #1443820] DEBUG -- : Starting Rack transport with path prefix: /tidewave
+D, [2025-10-23T19:14:32.661331 #1443820] DEBUG -- : DNS rebinding protection enabled. Allowed origins: 
+D, [2025-10-23T19:14:36.532713 #1443820] DEBUG -- : Rack request path: /cable
+D, [2025-10-23T19:14:37.078967 #1443820] DEBUG -- : Rack request path: /cable
+D, [2025-10-23T19:14:37.778171 #1443820] DEBUG -- : Rack request path: /cable
+D, [2025-10-23T19:14:38.693249 #1443820] DEBUG -- : Rack request path: /cable
+D, [2025-10-23T19:14:39.924842 #1443820] DEBUG -- : Rack request path: /cable
+D, [2025-10-23T19:14:40.658356 #1443820] DEBUG -- : Rack request path: /cable
+D, [2025-10-23T19:14:46.471999 #1443820] DEBUG -- : Rack request path: /cable
+D, [2025-10-23T19:14:48.392988 #1443820] DEBUG -- : Rack request path: /
+D, [2025-10-23T19:14:49.121495 #1443820] DEBUG -- : Rack request path: /
+D, [2025-10-23T19:14:53.474361 #1443820] DEBUG -- : Rack request path: /cable
+D, [2025-10-23T19:14:57.893338 #1443820] DEBUG -- : Rack request path: /
+D, [2025-10-23T19:15:02.484353 #1443820] DEBUG -- : Rack request path: /cable
+D, [2025-10-23T19:17:38.444108 #1453984] DEBUG -- : Registered tool: write_project_file
+D, [2025-10-23T19:17:38.444235 #1453984] DEBUG -- : Registered tool: shell_eval
+D, [2025-10-23T19:17:38.444250 #1453984] DEBUG -- : Registered tool: read_project_file
+D, [2025-10-23T19:17:38.444262 #1453984] DEBUG -- : Registered tool: project_eval
+D, [2025-10-23T19:17:38.444274 #1453984] DEBUG -- : Registered tool: list_project_files
+D, [2025-10-23T19:17:38.444286 #1453984] DEBUG -- : Registered tool: get_source_location
+D, [2025-10-23T19:17:38.444295 #1453984] DEBUG -- : Registered tool: get_package_location
+D, [2025-10-23T19:17:38.444326 #1453984] DEBUG -- : Registered tool: get_models
+D, [2025-10-23T19:17:38.444339 #1453984] DEBUG -- : Registered tool: get_logs
+D, [2025-10-23T19:17:38.444346 #1453984] DEBUG -- : Registered tool: get_docs
+D, [2025-10-23T19:17:38.444355 #1453984] DEBUG -- : Registered tool: execute_sql_query
+D, [2025-10-23T19:17:38.444364 #1453984] DEBUG -- : Registered tool: edit_project_file
+I, [2025-10-23T19:17:38.444384 #1453984]  INFO -- : Starting MCP server as Rack middleware: tidewave v0.2.0
+I, [2025-10-23T19:17:38.444394 #1453984]  INFO -- : Available tools: write_project_file, shell_eval, read_project_file, project_eval, list_project_files, get_source_location, get_package_location, get_models, get_logs, get_docs, execute_sql_query, edit_project_file
+I, [2025-10-23T19:17:38.444401 #1453984]  INFO -- : Available resources: 
+D, [2025-10-23T19:17:38.444452 #1453984] DEBUG -- : Starting Rack transport with path prefix: /tidewave
+D, [2025-10-23T19:17:38.444472 #1453984] DEBUG -- : DNS rebinding protection enabled. Allowed origins: 
+D, [2025-10-23T19:17:47.623723 #1454496] DEBUG -- : Registered tool: write_project_file
+D, [2025-10-23T19:17:47.623845 #1454496] DEBUG -- : Registered tool: shell_eval
+D, [2025-10-23T19:17:47.623857 #1454496] DEBUG -- : Registered tool: read_project_file
+D, [2025-10-23T19:17:47.623869 #1454496] DEBUG -- : Registered tool: project_eval
+D, [2025-10-23T19:17:47.623879 #1454496] DEBUG -- : Registered tool: list_project_files
+D, [2025-10-23T19:17:47.623888 #1454496] DEBUG -- : Registered tool: get_source_location
+D, [2025-10-23T19:17:47.623896 #1454496] DEBUG -- : Registered tool: get_package_location
+D, [2025-10-23T19:17:47.623904 #1454496] DEBUG -- : Registered tool: get_models
+D, [2025-10-23T19:17:47.623912 #1454496] DEBUG -- : Registered tool: get_logs
+D, [2025-10-23T19:17:47.623920 #1454496] DEBUG -- : Registered tool: get_docs
+D, [2025-10-23T19:17:47.623928 #1454496] DEBUG -- : Registered tool: execute_sql_query
+D, [2025-10-23T19:17:47.623937 #1454496] DEBUG -- : Registered tool: edit_project_file
+I, [2025-10-23T19:17:47.623959 #1454496]  INFO -- : Starting MCP server as Rack middleware: tidewave v0.2.0
+I, [2025-10-23T19:17:47.623969 #1454496]  INFO -- : Available tools: write_project_file, shell_eval, read_project_file, project_eval, list_project_files, get_source_location, get_package_location, get_models, get_logs, get_docs, execute_sql_query, edit_project_file
+I, [2025-10-23T19:17:47.623982 #1454496]  INFO -- : Available resources: 
+D, [2025-10-23T19:17:47.624028 #1454496] DEBUG -- : Starting Rack transport with path prefix: /tidewave
+D, [2025-10-23T19:17:47.624035 #1454496] DEBUG -- : DNS rebinding protection enabled. Allowed origins: 
+D, [2025-10-23T19:18:11.141325 #1454496] DEBUG -- : Rack request path: /
+D, [2025-10-23T19:18:11.529078 #1454496] DEBUG -- : Rack request path: /favicon.ico
+D, [2025-10-23T19:18:14.106249 #1454496] DEBUG -- : Rack request path: /
+D, [2025-10-23T19:18:14.298996 #1454496] DEBUG -- : Rack request path: /favicon.ico
+D, [2025-10-23T19:18:15.764922 #1454496] DEBUG -- : Rack request path: /cable
+D, [2025-10-23T19:18:15.978735 #1454496] DEBUG -- : Rack request path: /cable
+D, [2025-10-23T19:18:16.607377 #1454496] DEBUG -- : Rack request path: /app/accounts/2/dashboard
+D, [2025-10-23T19:18:16.809193 #1454496] DEBUG -- : Rack request path: /favicon.ico
+D, [2025-10-23T19:18:51.301269 #1454496] DEBUG -- : Rack request path: //api/v1/accounts/2/contacts/filter
+D, [2025-10-23T19:20:26.313916 #1465094] DEBUG -- : Registered tool: write_project_file
+D, [2025-10-23T19:20:26.314001 #1465094] DEBUG -- : Registered tool: shell_eval
+D, [2025-10-23T19:20:26.314013 #1465094] DEBUG -- : Registered tool: read_project_file
+D, [2025-10-23T19:20:26.314023 #1465094] DEBUG -- : Registered tool: project_eval
+D, [2025-10-23T19:20:26.314032 #1465094] DEBUG -- : Registered tool: list_project_files
+D, [2025-10-23T19:20:26.314041 #1465094] DEBUG -- : Registered tool: get_source_location
+D, [2025-10-23T19:20:26.314049 #1465094] DEBUG -- : Registered tool: get_package_location
+D, [2025-10-23T19:20:26.314074 #1465094] DEBUG -- : Registered tool: get_models
+D, [2025-10-23T19:20:26.314082 #1465094] DEBUG -- : Registered tool: get_logs
+D, [2025-10-23T19:20:26.314089 #1465094] DEBUG -- : Registered tool: get_docs
+D, [2025-10-23T19:20:26.314095 #1465094] DEBUG -- : Registered tool: execute_sql_query
+D, [2025-10-23T19:20:26.314102 #1465094] DEBUG -- : Registered tool: edit_project_file
+I, [2025-10-23T19:20:26.314113 #1465094]  INFO -- : Starting MCP server as Rack middleware: tidewave v0.2.0
+I, [2025-10-23T19:20:26.314123 #1465094]  INFO -- : Available tools: write_project_file, shell_eval, read_project_file, project_eval, list_project_files, get_source_location, get_package_location, get_models, get_logs, get_docs, execute_sql_query, edit_project_file
+I, [2025-10-23T19:20:26.314131 #1465094]  INFO -- : Available resources: 
+D, [2025-10-23T19:20:26.314165 #1465094] DEBUG -- : Starting Rack transport with path prefix: /tidewave
+D, [2025-10-23T19:20:26.314173 #1465094] DEBUG -- : DNS rebinding protection enabled. Allowed origins: 
+D, [2025-10-23T19:22:36.860432 #1471622] DEBUG -- : Registered tool: write_project_file
+D, [2025-10-23T19:22:36.860560 #1471622] DEBUG -- : Registered tool: shell_eval
+D, [2025-10-23T19:22:36.860602 #1471622] DEBUG -- : Registered tool: read_project_file
+D, [2025-10-23T19:22:36.860614 #1471622] DEBUG -- : Registered tool: project_eval
+D, [2025-10-23T19:22:36.860625 #1471622] DEBUG -- : Registered tool: list_project_files
+D, [2025-10-23T19:22:36.860643 #1471622] DEBUG -- : Registered tool: get_source_location
+D, [2025-10-23T19:22:36.860651 #1471622] DEBUG -- : Registered tool: get_package_location
+D, [2025-10-23T19:22:36.860659 #1471622] DEBUG -- : Registered tool: get_models
+D, [2025-10-23T19:22:36.860675 #1471622] DEBUG -- : Registered tool: get_logs
+D, [2025-10-23T19:22:36.860695 #1471622] DEBUG -- : Registered tool: get_docs
+D, [2025-10-23T19:22:36.860711 #1471622] DEBUG -- : Registered tool: execute_sql_query
+D, [2025-10-23T19:22:36.860724 #1471622] DEBUG -- : Registered tool: edit_project_file
+I, [2025-10-23T19:22:36.860741 #1471622]  INFO -- : Starting MCP server as Rack middleware: tidewave v0.2.0
+I, [2025-10-23T19:22:36.860754 #1471622]  INFO -- : Available tools: write_project_file, shell_eval, read_project_file, project_eval, list_project_files, get_source_location, get_package_location, get_models, get_logs, get_docs, execute_sql_query, edit_project_file
+I, [2025-10-23T19:22:36.860766 #1471622]  INFO -- : Available resources: 
+D, [2025-10-23T19:22:36.860838 #1471622] DEBUG -- : Starting Rack transport with path prefix: /tidewave
+D, [2025-10-23T19:22:36.860854 #1471622] DEBUG -- : DNS rebinding protection enabled. Allowed origins: 
+D, [2025-10-23T19:35:13.115230 #1505380] DEBUG -- : Registered tool: write_project_file
+D, [2025-10-23T19:35:13.115353 #1505380] DEBUG -- : Registered tool: shell_eval
+D, [2025-10-23T19:35:13.115371 #1505380] DEBUG -- : Registered tool: read_project_file
+D, [2025-10-23T19:35:13.115385 #1505380] DEBUG -- : Registered tool: project_eval
+D, [2025-10-23T19:35:13.115397 #1505380] DEBUG -- : Registered tool: list_project_files
+D, [2025-10-23T19:35:13.115409 #1505380] DEBUG -- : Registered tool: get_source_location
+D, [2025-10-23T19:35:13.115420 #1505380] DEBUG -- : Registered tool: get_package_location
+D, [2025-10-23T19:35:13.115430 #1505380] DEBUG -- : Registered tool: get_models
+D, [2025-10-23T19:35:13.115444 #1505380] DEBUG -- : Registered tool: get_logs
+D, [2025-10-23T19:35:13.115456 #1505380] DEBUG -- : Registered tool: get_docs
+D, [2025-10-23T19:35:13.115474 #1505380] DEBUG -- : Registered tool: execute_sql_query
+D, [2025-10-23T19:35:13.115486 #1505380] DEBUG -- : Registered tool: edit_project_file
+I, [2025-10-23T19:35:13.115505 #1505380]  INFO -- : Starting MCP server as Rack middleware: tidewave v0.2.0
+I, [2025-10-23T19:35:13.115520 #1505380]  INFO -- : Available tools: write_project_file, shell_eval, read_project_file, project_eval, list_project_files, get_source_location, get_package_location, get_models, get_logs, get_docs, execute_sql_query, edit_project_file
+I, [2025-10-23T19:35:13.115559 #1505380]  INFO -- : Available resources: 
+D, [2025-10-23T19:35:13.115628 #1505380] DEBUG -- : Starting Rack transport with path prefix: /tidewave
+D, [2025-10-23T19:35:13.115640 #1505380] DEBUG -- : DNS rebinding protection enabled. Allowed origins: 
+D, [2025-10-23T19:38:45.741820 #1515470] DEBUG -- : Registered tool: write_project_file
+D, [2025-10-23T19:38:45.741905 #1515470] DEBUG -- : Registered tool: shell_eval
+D, [2025-10-23T19:38:45.741917 #1515470] DEBUG -- : Registered tool: read_project_file
+D, [2025-10-23T19:38:45.741927 #1515470] DEBUG -- : Registered tool: project_eval
+D, [2025-10-23T19:38:45.741935 #1515470] DEBUG -- : Registered tool: list_project_files
+D, [2025-10-23T19:38:45.741944 #1515470] DEBUG -- : Registered tool: get_source_location
+D, [2025-10-23T19:38:45.741952 #1515470] DEBUG -- : Registered tool: get_package_location
+D, [2025-10-23T19:38:45.741960 #1515470] DEBUG -- : Registered tool: get_models
+D, [2025-10-23T19:38:45.741969 #1515470] DEBUG -- : Registered tool: get_logs
+D, [2025-10-23T19:38:45.741977 #1515470] DEBUG -- : Registered tool: get_docs
+D, [2025-10-23T19:38:45.741985 #1515470] DEBUG -- : Registered tool: execute_sql_query
+D, [2025-10-23T19:38:45.741993 #1515470] DEBUG -- : Registered tool: edit_project_file
+I, [2025-10-23T19:38:45.742007 #1515470]  INFO -- : Starting MCP server as Rack middleware: tidewave v0.2.0
+I, [2025-10-23T19:38:45.742018 #1515470]  INFO -- : Available tools: write_project_file, shell_eval, read_project_file, project_eval, list_project_files, get_source_location, get_package_location, get_models, get_logs, get_docs, execute_sql_query, edit_project_file
+I, [2025-10-23T19:38:45.742031 #1515470]  INFO -- : Available resources: 
+D, [2025-10-23T19:38:45.742083 #1515470] DEBUG -- : Starting Rack transport with path prefix: /tidewave
+D, [2025-10-23T19:38:45.742097 #1515470] DEBUG -- : DNS rebinding protection enabled. Allowed origins: 
+D, [2025-10-23T19:51:04.981405 #1548506] DEBUG -- : Registered tool: write_project_file
+D, [2025-10-23T19:51:04.981505 #1548506] DEBUG -- : Registered tool: shell_eval
+D, [2025-10-23T19:51:04.981519 #1548506] DEBUG -- : Registered tool: read_project_file
+D, [2025-10-23T19:51:04.981529 #1548506] DEBUG -- : Registered tool: project_eval
+D, [2025-10-23T19:51:04.981538 #1548506] DEBUG -- : Registered tool: list_project_files
+D, [2025-10-23T19:51:04.981546 #1548506] DEBUG -- : Registered tool: get_source_location
+D, [2025-10-23T19:51:04.981555 #1548506] DEBUG -- : Registered tool: get_package_location
+D, [2025-10-23T19:51:04.981582 #1548506] DEBUG -- : Registered tool: get_models
+D, [2025-10-23T19:51:04.981592 #1548506] DEBUG -- : Registered tool: get_logs
+D, [2025-10-23T19:51:04.981599 #1548506] DEBUG -- : Registered tool: get_docs
+D, [2025-10-23T19:51:04.981607 #1548506] DEBUG -- : Registered tool: execute_sql_query
+D, [2025-10-23T19:51:04.981615 #1548506] DEBUG -- : Registered tool: edit_project_file
+I, [2025-10-23T19:51:04.981627 #1548506]  INFO -- : Starting MCP server as Rack middleware: tidewave v0.2.0
+I, [2025-10-23T19:51:04.981637 #1548506]  INFO -- : Available tools: write_project_file, shell_eval, read_project_file, project_eval, list_project_files, get_source_location, get_package_location, get_models, get_logs, get_docs, execute_sql_query, edit_project_file
+I, [2025-10-23T19:51:04.981651 #1548506]  INFO -- : Available resources: 
+D, [2025-10-23T19:51:04.981682 #1548506] DEBUG -- : Starting Rack transport with path prefix: /tidewave
+D, [2025-10-23T19:51:04.981690 #1548506] DEBUG -- : DNS rebinding protection enabled. Allowed origins: 
+D, [2025-10-23T19:53:29.120284 #1555655] DEBUG -- : Registered tool: write_project_file
+D, [2025-10-23T19:53:29.120353 #1555655] DEBUG -- : Registered tool: shell_eval
+D, [2025-10-23T19:53:29.120365 #1555655] DEBUG -- : Registered tool: read_project_file
+D, [2025-10-23T19:53:29.120374 #1555655] DEBUG -- : Registered tool: project_eval
+D, [2025-10-23T19:53:29.120383 #1555655] DEBUG -- : Registered tool: list_project_files
+D, [2025-10-23T19:53:29.120405 #1555655] DEBUG -- : Registered tool: get_source_location
+D, [2025-10-23T19:53:29.120412 #1555655] DEBUG -- : Registered tool: get_package_location
+D, [2025-10-23T19:53:29.120418 #1555655] DEBUG -- : Registered tool: get_models
+D, [2025-10-23T19:53:29.120433 #1555655] DEBUG -- : Registered tool: get_logs
+D, [2025-10-23T19:53:29.120439 #1555655] DEBUG -- : Registered tool: get_docs
+D, [2025-10-23T19:53:29.120445 #1555655] DEBUG -- : Registered tool: execute_sql_query
+D, [2025-10-23T19:53:29.120452 #1555655] DEBUG -- : Registered tool: edit_project_file
+I, [2025-10-23T19:53:29.120463 #1555655]  INFO -- : Starting MCP server as Rack middleware: tidewave v0.2.0
+I, [2025-10-23T19:53:29.120472 #1555655]  INFO -- : Available tools: write_project_file, shell_eval, read_project_file, project_eval, list_project_files, get_source_location, get_package_location, get_models, get_logs, get_docs, execute_sql_query, edit_project_file
+I, [2025-10-23T19:53:29.120479 #1555655]  INFO -- : Available resources: 
+D, [2025-10-23T19:53:29.120507 #1555655] DEBUG -- : Starting Rack transport with path prefix: /tidewave
+D, [2025-10-23T19:53:29.120514 #1555655] DEBUG -- : DNS rebinding protection enabled. Allowed origins: 
+D, [2025-10-23T19:55:05.310386 #1560667] DEBUG -- : Registered tool: write_project_file
+D, [2025-10-23T19:55:05.310502 #1560667] DEBUG -- : Registered tool: shell_eval
+D, [2025-10-23T19:55:05.310519 #1560667] DEBUG -- : Registered tool: read_project_file
+D, [2025-10-23T19:55:05.310530 #1560667] DEBUG -- : Registered tool: project_eval
+D, [2025-10-23T19:55:05.310541 #1560667] DEBUG -- : Registered tool: list_project_files
+D, [2025-10-23T19:55:05.310552 #1560667] DEBUG -- : Registered tool: get_source_location
+D, [2025-10-23T19:55:05.310579 #1560667] DEBUG -- : Registered tool: get_package_location
+D, [2025-10-23T19:55:05.310593 #1560667] DEBUG -- : Registered tool: get_models
+D, [2025-10-23T19:55:05.310610 #1560667] DEBUG -- : Registered tool: get_logs
+D, [2025-10-23T19:55:05.310621 #1560667] DEBUG -- : Registered tool: get_docs
+D, [2025-10-23T19:55:05.310632 #1560667] DEBUG -- : Registered tool: execute_sql_query
+D, [2025-10-23T19:55:05.310642 #1560667] DEBUG -- : Registered tool: edit_project_file
+I, [2025-10-23T19:55:05.310659 #1560667]  INFO -- : Starting MCP server as Rack middleware: tidewave v0.2.0
+I, [2025-10-23T19:55:05.310673 #1560667]  INFO -- : Available tools: write_project_file, shell_eval, read_project_file, project_eval, list_project_files, get_source_location, get_package_location, get_models, get_logs, get_docs, execute_sql_query, edit_project_file
+I, [2025-10-23T19:55:05.310684 #1560667]  INFO -- : Available resources: 
+D, [2025-10-23T19:55:05.310725 #1560667] DEBUG -- : Starting Rack transport with path prefix: /tidewave
+D, [2025-10-23T19:55:05.310737 #1560667] DEBUG -- : DNS rebinding protection enabled. Allowed origins: 
+D, [2025-10-30T12:42:13.401380 #1568099] DEBUG -- : Registered tool: write_project_file
+D, [2025-10-30T12:42:13.402021 #1568099] DEBUG -- : Registered tool: shell_eval
+D, [2025-10-30T12:42:13.402064 #1568099] DEBUG -- : Registered tool: read_project_file
+D, [2025-10-30T12:42:13.402109 #1568099] DEBUG -- : Registered tool: project_eval
+D, [2025-10-30T12:42:13.402128 #1568099] DEBUG -- : Registered tool: list_project_files
+D, [2025-10-30T12:42:13.402144 #1568099] DEBUG -- : Registered tool: get_source_location
+D, [2025-10-30T12:42:13.402172 #1568099] DEBUG -- : Registered tool: get_package_location
+D, [2025-10-30T12:42:13.402187 #1568099] DEBUG -- : Registered tool: get_models
+D, [2025-10-30T12:42:13.402200 #1568099] DEBUG -- : Registered tool: get_logs
+D, [2025-10-30T12:42:13.402213 #1568099] DEBUG -- : Registered tool: get_docs
+D, [2025-10-30T12:42:13.402227 #1568099] DEBUG -- : Registered tool: execute_sql_query
+D, [2025-10-30T12:42:13.402243 #1568099] DEBUG -- : Registered tool: edit_project_file
+I, [2025-10-30T12:42:13.402269 #1568099]  INFO -- : Starting MCP server as Rack middleware: tidewave v0.2.0
+I, [2025-10-30T12:42:13.402305 #1568099]  INFO -- : Available tools: write_project_file, shell_eval, read_project_file, project_eval, list_project_files, get_source_location, get_package_location, get_models, get_logs, get_docs, execute_sql_query, edit_project_file
+I, [2025-10-30T12:42:13.402318 #1568099]  INFO -- : Available resources: 
+D, [2025-10-30T12:42:13.402410 #1568099] DEBUG -- : Starting Rack transport with path prefix: /tidewave
+D, [2025-10-30T12:42:13.402438 #1568099] DEBUG -- : DNS rebinding protection enabled. Allowed origins: 
+D, [2025-10-30T12:42:17.796891 #1568363] DEBUG -- : Registered tool: write_project_file
+D, [2025-10-30T12:42:17.797009 #1568363] DEBUG -- : Registered tool: shell_eval
+D, [2025-10-30T12:42:17.797022 #1568363] DEBUG -- : Registered tool: read_project_file
+D, [2025-10-30T12:42:17.797032 #1568363] DEBUG -- : Registered tool: project_eval
+D, [2025-10-30T12:42:17.797042 #1568363] DEBUG -- : Registered tool: list_project_files
+D, [2025-10-30T12:42:17.797050 #1568363] DEBUG -- : Registered tool: get_source_location
+D, [2025-10-30T12:42:17.797059 #1568363] DEBUG -- : Registered tool: get_package_location
+D, [2025-10-30T12:42:17.797067 #1568363] DEBUG -- : Registered tool: get_models
+D, [2025-10-30T12:42:17.797078 #1568363] DEBUG -- : Registered tool: get_logs
+D, [2025-10-30T12:42:17.797095 #1568363] DEBUG -- : Registered tool: get_docs
+D, [2025-10-30T12:42:17.797104 #1568363] DEBUG -- : Registered tool: execute_sql_query
+D, [2025-10-30T12:42:17.797113 #1568363] DEBUG -- : Registered tool: edit_project_file
+I, [2025-10-30T12:42:17.797129 #1568363]  INFO -- : Starting MCP server as Rack middleware: tidewave v0.2.0
+I, [2025-10-30T12:42:17.797148 #1568363]  INFO -- : Available tools: write_project_file, shell_eval, read_project_file, project_eval, list_project_files, get_source_location, get_package_location, get_models, get_logs, get_docs, execute_sql_query, edit_project_file
+I, [2025-10-30T12:42:17.797165 #1568363]  INFO -- : Available resources: 
+D, [2025-10-30T12:42:17.797212 #1568363] DEBUG -- : Starting Rack transport with path prefix: /tidewave
+D, [2025-10-30T12:42:17.797225 #1568363] DEBUG -- : DNS rebinding protection enabled. Allowed origins: 
+D, [2025-10-30T12:43:33.926742 #1571421] DEBUG -- : Registered tool: write_project_file
+D, [2025-10-30T12:43:33.926974 #1571421] DEBUG -- : Registered tool: shell_eval
+D, [2025-10-30T12:43:33.927003 #1571421] DEBUG -- : Registered tool: read_project_file
+D, [2025-10-30T12:43:33.927023 #1571421] DEBUG -- : Registered tool: project_eval
+D, [2025-10-30T12:43:33.927042 #1571421] DEBUG -- : Registered tool: list_project_files
+D, [2025-10-30T12:43:33.927058 #1571421] DEBUG -- : Registered tool: get_source_location
+D, [2025-10-30T12:43:33.927098 #1571421] DEBUG -- : Registered tool: get_package_location
+D, [2025-10-30T12:43:33.927114 #1571421] DEBUG -- : Registered tool: get_models
+D, [2025-10-30T12:43:33.927133 #1571421] DEBUG -- : Registered tool: get_logs
+D, [2025-10-30T12:43:33.927153 #1571421] DEBUG -- : Registered tool: get_docs
+D, [2025-10-30T12:43:33.927176 #1571421] DEBUG -- : Registered tool: execute_sql_query
+D, [2025-10-30T12:43:33.927196 #1571421] DEBUG -- : Registered tool: edit_project_file
+I, [2025-10-30T12:43:33.927227 #1571421]  INFO -- : Starting MCP server as Rack middleware: tidewave v0.2.0
+I, [2025-10-30T12:43:33.927243 #1571421]  INFO -- : Available tools: write_project_file, shell_eval, read_project_file, project_eval, list_project_files, get_source_location, get_package_location, get_models, get_logs, get_docs, execute_sql_query, edit_project_file
+I, [2025-10-30T12:43:33.927255 #1571421]  INFO -- : Available resources: 
+D, [2025-10-30T12:43:33.927331 #1571421] DEBUG -- : Starting Rack transport with path prefix: /tidewave
+D, [2025-10-30T12:43:33.927352 #1571421] DEBUG -- : DNS rebinding protection enabled. Allowed origins: 
+D, [2025-10-30T12:44:00.134843 #1572483] DEBUG -- : Registered tool: write_project_file
+D, [2025-10-30T12:44:00.134969 #1572483] DEBUG -- : Registered tool: shell_eval
+D, [2025-10-30T12:44:00.134989 #1572483] DEBUG -- : Registered tool: read_project_file
+D, [2025-10-30T12:44:00.135017 #1572483] DEBUG -- : Registered tool: project_eval
+D, [2025-10-30T12:44:00.135039 #1572483] DEBUG -- : Registered tool: list_project_files
+D, [2025-10-30T12:44:00.135061 #1572483] DEBUG -- : Registered tool: get_source_location
+D, [2025-10-30T12:44:00.135071 #1572483] DEBUG -- : Registered tool: get_package_location
+D, [2025-10-30T12:44:00.135081 #1572483] DEBUG -- : Registered tool: get_models
+D, [2025-10-30T12:44:00.135094 #1572483] DEBUG -- : Registered tool: get_logs
+D, [2025-10-30T12:44:00.135103 #1572483] DEBUG -- : Registered tool: get_docs
+D, [2025-10-30T12:44:00.135113 #1572483] DEBUG -- : Registered tool: execute_sql_query
+D, [2025-10-30T12:44:00.135125 #1572483] DEBUG -- : Registered tool: edit_project_file
+I, [2025-10-30T12:44:00.135144 #1572483]  INFO -- : Starting MCP server as Rack middleware: tidewave v0.2.0
+I, [2025-10-30T12:44:00.135157 #1572483]  INFO -- : Available tools: write_project_file, shell_eval, read_project_file, project_eval, list_project_files, get_source_location, get_package_location, get_models, get_logs, get_docs, execute_sql_query, edit_project_file
+I, [2025-10-30T12:44:00.135166 #1572483]  INFO -- : Available resources: 
+D, [2025-10-30T12:44:00.135206 #1572483] DEBUG -- : Starting Rack transport with path prefix: /tidewave
+D, [2025-10-30T12:44:00.135214 #1572483] DEBUG -- : DNS rebinding protection enabled. Allowed origins: 
+D, [2025-10-30T12:51:34.792063 #1591683] DEBUG -- : Registered tool: write_project_file
+D, [2025-10-30T12:51:34.792190 #1591683] DEBUG -- : Registered tool: shell_eval
+D, [2025-10-30T12:51:34.792213 #1591683] DEBUG -- : Registered tool: read_project_file
+D, [2025-10-30T12:51:34.792227 #1591683] DEBUG -- : Registered tool: project_eval
+D, [2025-10-30T12:51:34.792239 #1591683] DEBUG -- : Registered tool: list_project_files
+D, [2025-10-30T12:51:34.792248 #1591683] DEBUG -- : Registered tool: get_source_location
+D, [2025-10-30T12:51:34.792257 #1591683] DEBUG -- : Registered tool: get_package_location
+D, [2025-10-30T12:51:34.792266 #1591683] DEBUG -- : Registered tool: get_models
+D, [2025-10-30T12:51:34.792277 #1591683] DEBUG -- : Registered tool: get_logs
+D, [2025-10-30T12:51:34.792285 #1591683] DEBUG -- : Registered tool: get_docs
+D, [2025-10-30T12:51:34.792293 #1591683] DEBUG -- : Registered tool: execute_sql_query
+D, [2025-10-30T12:51:34.792301 #1591683] DEBUG -- : Registered tool: edit_project_file
+I, [2025-10-30T12:51:34.792317 #1591683]  INFO -- : Starting MCP server as Rack middleware: tidewave v0.2.0
+I, [2025-10-30T12:51:34.792329 #1591683]  INFO -- : Available tools: write_project_file, shell_eval, read_project_file, project_eval, list_project_files, get_source_location, get_package_location, get_models, get_logs, get_docs, execute_sql_query, edit_project_file
+I, [2025-10-30T12:51:34.792338 #1591683]  INFO -- : Available resources: 
+D, [2025-10-30T12:51:34.792376 #1591683] DEBUG -- : Starting Rack transport with path prefix: /tidewave
+D, [2025-10-30T12:51:34.792386 #1591683] DEBUG -- : DNS rebinding protection enabled. Allowed origins: 
+D, [2025-10-30T16:51:32.431122 #1654452] DEBUG -- : Registered tool: write_project_file
+D, [2025-10-30T16:51:32.431485 #1654452] DEBUG -- : Registered tool: shell_eval
+D, [2025-10-30T16:51:32.431516 #1654452] DEBUG -- : Registered tool: read_project_file
+D, [2025-10-30T16:51:32.431531 #1654452] DEBUG -- : Registered tool: project_eval
+D, [2025-10-30T16:51:32.431543 #1654452] DEBUG -- : Registered tool: list_project_files
+D, [2025-10-30T16:51:32.431555 #1654452] DEBUG -- : Registered tool: get_source_location
+D, [2025-10-30T16:51:32.431587 #1654452] DEBUG -- : Registered tool: get_package_location
+D, [2025-10-30T16:51:32.431602 #1654452] DEBUG -- : Registered tool: get_models
+D, [2025-10-30T16:51:32.431618 #1654452] DEBUG -- : Registered tool: get_logs
+D, [2025-10-30T16:51:32.431630 #1654452] DEBUG -- : Registered tool: get_docs
+D, [2025-10-30T16:51:32.431642 #1654452] DEBUG -- : Registered tool: execute_sql_query
+D, [2025-10-30T16:51:32.431657 #1654452] DEBUG -- : Registered tool: edit_project_file
+I, [2025-10-30T16:51:32.431692 #1654452]  INFO -- : Starting MCP server as Rack middleware: tidewave v0.2.0
+I, [2025-10-30T16:51:32.431708 #1654452]  INFO -- : Available tools: write_project_file, shell_eval, read_project_file, project_eval, list_project_files, get_source_location, get_package_location, get_models, get_logs, get_docs, execute_sql_query, edit_project_file
+I, [2025-10-30T16:51:32.431720 #1654452]  INFO -- : Available resources: 
+D, [2025-10-30T16:51:32.431775 #1654452] DEBUG -- : Starting Rack transport with path prefix: /tidewave
+D, [2025-10-30T16:51:32.431789 #1654452] DEBUG -- : DNS rebinding protection enabled. Allowed origins: 
